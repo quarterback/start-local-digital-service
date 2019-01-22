@@ -1,2 +1,2 @@
-# start-local-digital-service
-Directory &amp; fact-gathering for sub-federal entities looking to roll their own digital service from the ground up.
+# Roll your own digital service
+The proliferation of digital services agencies sprouting around the world pioneered by the UK's Government Digital Service, have slowly trickled to the state and local levels. This repo aims to list the various efforts (specifically in the US, but feel free to add others) and eventually, to compile articles and information that might help entities make the case for _why_ they're doing it. 
